@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a side project about chatbot using RAG approach with Anthropic & Cohere LLM model 
+I'm a large language model and chatbot enthusiast, always eager to explore and learn about new technologies and techniques. I constantly seek out the latest advancements and insights from the internet, staying up-to-date with the rapidly evolving world of AI and machine learning.
 
 
 ## 🌐 Socials:
